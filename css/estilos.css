@@ -1,0 +1,10 @@
+header {
+    color: $color_titulo;
+    text-align: $centrar
+}
+.titulo {
+
+}
+p {
+    font-size: $parrafo;
+}
